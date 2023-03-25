@@ -23,3 +23,7 @@ Data Diri tersimpan di session storage
 
 ![image](https://user-images.githubusercontent.com/120117342/227728729-e642f5c5-c27a-439c-b8d5-99ea23a7a986.png)
 
+Saya minta maaf sebesar besarnya kepada abang abang sekalian karena pada tugas kali ini saya tidak dapat menyelesaikan sesuai ketentuan.
+Masalah pada tugas saya ada dua yaitu tidak bisa login dan tidak dapat menampilkan data dari form, saya sudah mencari refrensi dari youtube akan tetapi hasilnya nihil
+oleh karena itu saya sekali lagi meminta maaf sebesar besarnya.
+Kedepannya saya usahakan dapat menyelesaikan tugas dengan baik 
